@@ -4,6 +4,8 @@
 <small>yarn create react-app nameproject </small>
 <p>Using Airbnb Eslint Config.</p>
 <h3>Available libraries:</h3>
-<small>yarn add react-router-dom</small>
-<small>yarn add styled-components</small>
-<small>yarn add react-icons</small>
+<ul>
+    <li>yarn add react-router-dom</li>
+    <li>yarn add styled-components</li>
+    <li>yarn add react-icons</li>
+</ul>
