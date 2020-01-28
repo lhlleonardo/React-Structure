@@ -1,3 +1,4 @@
+<img src="https://www.netclipart.com/pp/m/185-1857470_react-logo-react-js-logo-svg.png">
 <h1>ReactJS Structure </h1>
 <h2>Repository for ReactJS project structure base. </h2>
 <p>Created by react-app command. </p>
